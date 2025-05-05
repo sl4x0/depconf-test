@@ -1,0 +1,9 @@
+// depconf-npm-test/package.json
+{
+  "name": "depconf-npm-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": "0.0.0",         // real package, bogus version
+    "this-pkg-does-not-exist": "1.2.3"
+  }
+}
